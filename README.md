@@ -1,5 +1,25 @@
-elg7186-group6-project
+
 ==============================
+Network Intrusion Detection Systems (NIDS) are tools or software that are widely used to maintain the computer
+networks and information systems keeping them secure and preventing malicious traffics from penetrating into them, as
+they flag when somebody is trying to break into the system. Best effort has been set up on these systems, and the results achieved
+so far are quite satisfying, however, new types of attacks stand out as the technology of attacks keep evolving, one of these
+attacks are the attacks based on Generative Adversarial Networks (GAN) that can evade machine learning IDS leaving
+them vulnerable.
+This project investigates the impact of the Adversarial Attacks synthesized using real DDos attacks generated using
+GANs on the IDS. The objective is to discover how will these systems react towards synthesized attacks. marking the
+vulnerability and weakness points of these systems so we could fix them.
+
+
+<img src="img\power-of-knowledge.jpg" /> 
+
+
+
+
+
+
+
+
 
 
 Project Organization
