@@ -12,8 +12,7 @@ vulnerability and weakness points of these systems so we could fix them.
 
 
 
-
-[![run](https://www.youtube.com/watch?v=mte7j-YvtSg.jpg)](https://www.youtube.com/watch?v=mte7j-YvtSg)
+https://www.youtube.com/watch?v=mte7j-YvtSg
 
 
 
