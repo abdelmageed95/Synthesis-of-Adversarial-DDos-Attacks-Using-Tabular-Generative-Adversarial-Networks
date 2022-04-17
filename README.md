@@ -14,7 +14,7 @@ vulnerability and weakness points of these systems so we could fix them.
 <img src="img\power-of-knowledge.jpg" /> 
 
 
-[![run](https://img.youtube.com/vi/DeSbxpgxe_I/0.jpg)](https://www.youtube.com/watch?v=mte7j-YvtSg)
+[![run](https://www.youtube.com/watch?v=mte7j-YvtSg.jpg)](https://www.youtube.com/watch?v=mte7j-YvtSg)
 
 
 
