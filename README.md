@@ -11,7 +11,6 @@ GANs on the IDS. The objective is to discover how will these systems react towar
 vulnerability and weakness points of these systems so we could fix them.
 
 
-<img src="img\power-of-knowledge.jpg" /> 
 
 
 [![run](https://www.youtube.com/watch?v=mte7j-YvtSg.jpg)](https://www.youtube.com/watch?v=mte7j-YvtSg)
